@@ -731,3 +731,5 @@ if __name__ == "__main__":
 
     # 退出程序
     exit()
+
+print("Hello, Fork!")
